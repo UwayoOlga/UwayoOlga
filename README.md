@@ -3,22 +3,22 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+ISHIMWE+Patience;Software+Engineering+Student;Aspiring+Software+Developer;Musician;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Olga+Uwayo;Software+Engineering+Student;Aspiring+Software+Developer;Data+Enthusiast;&center=true&width=380&height=45"></a>
 </p>
 
 <p align="center">
-  <a href=" https://www.linkedin.com/in/olga-uwayo-5a9aa7213/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:uwayoolga2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.youtube.com/@yool5018"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.linkedin.com/in/olgauwayo-5a9aa7213"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:uwayoolga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://leetcode.com/your-leetcode-username"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering student at *Adventist University Of Central Africa (AUCA)*
 - 💻 Passionate about creating efficient and innovative software solutions
-- 🌱 Currently focusing on expanding my skills in software design and development
-- 🎵 Fun fact: I'm also a musician! Check out my YouTube channel
+- 🌱 Currently focusing on expanding my skills in software design, development, and data science
 - 💡 Always excited to work on challenging projects and collaborate with fellow developers
+- 🎯 Interested in AI and its applications in agriculture and talent acquisition
 
 ## 🛠 My Skills
 
@@ -33,25 +33,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshimwePatience&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OlgaUwayo&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshimwePatience&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaUwayo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 
 ## 🎯 Future Goals
 
-- Develop expertise in software architecture and design patterns
-- Contribute to open-source projects in the software engineering domain
-- Create innovative software solutions that merge technology and music
-- Pursue internships or collaborative projects to gain hands-on industry experience
+- Develop expertise in software architecture, data science, and design patterns
+- Contribute to open-source projects in software engineering and AI
+- Create innovative software solutions that integrate AI for societal impact
+- Pursue internships and projects to gain hands-on industry experience
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IshimwePatience&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=OlgaUwayo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">⭐ From [IshimwePatience](https://github.com/IshimwePatience)</p>
+<p align="center">⭐ From [OlgaUwayo](https://github.com/OlgaUwayo)</p>
