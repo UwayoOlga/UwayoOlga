@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/olga-uwayo-5a9aa7213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:uwayoolga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.codewars.com/users/uwayoolga"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/></a>
+  <a href="[https://www.codewars.com/users/uwayoolga](https://www.codewars.com/users/UwayoOlga)"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/></a>
 </p>
 
 ## 👨‍💻 About Me
