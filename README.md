@@ -14,11 +14,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at *Adventist University Of Central Africa (AUCA)*
-- 💻 Passionate about creating efficient and innovative software solutions
-- 🌱 Currently focusing on expanding my skills in software design, development, and data science
-- 💡 Always excited to work on challenging projects and collaborate with fellow developers
-- 🎯 Interested in AI and its applications in agriculture and talent acquisition
+- 🎓 Software Engineering student at *Adventist University Of Central Africa (AUCA)*b
+- 💡 Always excited to work on challenging projects and collaborate with fellow developers 
 
 ## 🛠 My Skills
 
@@ -33,8 +30,8 @@
 
 ## 🎯 Future Goals
 
-- Develop expertise in software architecture, data science, and design patterns
-- Contribute to open-source projects in software engineering and AI
+- Develop expertise in software development, applied mathematics, and design patterns
+- Contribute to open-source projects in software engineering 
 - Create innovative software solutions that integrate AI for societal impact
 - Pursue internships and projects to gain hands-on industry experience
 
