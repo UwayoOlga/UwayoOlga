@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at *Adventist University Of Central Africa (AUCA)*b
+- 🎓 Software Engineering student at Adventist University Of Central Africa (AUCA) 
 - 💡 Always excited to work on challenging projects and collaborate with fellow developers 
 
 ## 🛠 My Skills
